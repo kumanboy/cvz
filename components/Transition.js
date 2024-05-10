@@ -36,5 +36,5 @@ const Transition = () => {
 };
 export default Transition;
 
-// TODO:`29:12 qator xato bolishi mn`
+
 
